@@ -1,0 +1,10 @@
+if (pSano > pEnfermo && pSano > pPreclinico) {
+      categoria = "SANO";
+      probabilidad = pSano;
+    } else if (pEnfermo > pPreclinico) {
+      categoria = "ENFERMO";
+      probabilidad = pEnfermo;
+    } else {
+      categoria = "PRECLÍNICO";
+      probabilidad = pPreclinico;
+    }

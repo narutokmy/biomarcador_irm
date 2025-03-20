@@ -1,0 +1,4 @@
+#Wed Mar 05 23:13:28 CST 2025
+base.0=/home/math-lab-gromx/appfirst/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
